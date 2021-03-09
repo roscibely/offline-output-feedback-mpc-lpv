@@ -1,2 +1,4 @@
-# Offline-output-feedback-robust-Anti-Windup-MPC-LPV-LMI
-EJC paper
+# Offline output feedback robust Anti-Windup MPC-LPV using relaxed LMI optimization
+
+
+## EJC paper
